@@ -10,6 +10,11 @@
 <h1 align="left">Hello World👋 What's up?</h1>
 
 ###
+<div align="left"><a>
+<img src="https://github.com/devbojack/devbojack/blob/main/assets/linked_In.png" width="52" height="52" alt="linkedin logo"  />
+</a></div>
+
+###
 
 <p align="left">My name is Justus Lolwerikoi, <br>
   I'm a FullStack Developer<br>
