@@ -23,10 +23,10 @@
 
 <div align="left">
   <a href="www.linkedin.com/in/justus-lolwerikoi-032006164" target="_blank">
-    <img src="https://github.com/devbojack/devbojack/blob/main/assets/linked_In.png" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://github.com/devbojack/devbojack/blob/main/assets/linked_In.png" width="52" height="52" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/17432749/justus-lolwerikoi" target="_blank">
-    <img src="https://github.com/devbojack/devbojack/blob/main/assets/stackoverflow.png" width="52" height="40" alt="twitter logo"  />
+    <img src="https://github.com/devbojack/devbojack/blob/main/assets/stackoverflow.png" width="52" height="52" alt="twitter logo"  />
   </a>
 </div>
 
