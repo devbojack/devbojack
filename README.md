@@ -3,7 +3,7 @@
 
 ###
 
-<img align="right" height="400" src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif"  />
+<!-- <img align="right" height="400" src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif"  /> -->
 
 ###
 
@@ -40,6 +40,7 @@
   <img src="https://github.com/devbojack/devbojack/blob/main/assets/flutter.png" height="40" width="40" alt="Flutter logo"  />
   <img src="https://github.com/devbojack/devbojack/blob/main/assets/js.png" height="40" width="40" alt="JavaScript logo"  />
   <img src="https://github.com/devbojack/devbojack/blob/main/assets/kubernetes.png" height="40" width="40" alt="Kubernetes logo"  />
+  <img src="https://github.com/devbojack/devbojack/blob/main/assets/golang.png" height="40" width="40" alt="Golang logo"  />
   <img src="https://github.com/devbojack/devbojack/blob/main/assets/html5.png" height="40" width="40" alt="HTML logo"  />
   <img src="https://github.com/devbojack/devbojack/blob/main/assets/mongo_db.png" height="40" width="40" alt="Mongo DB logo"  />
 <img src="https://github.com/devbojack/devbojack/blob/main/assets/python.png" height="40" width="40" alt="Python logo"  />
