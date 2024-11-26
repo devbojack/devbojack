@@ -11,7 +11,7 @@
 
 ###
 <div align="left"><a>
-<img src="https://github.com/devbojack/devbojack/blob/main/assets/linked_In.png" width="52" height="52" alt="linkedin logo"  />
+<img src="https://github.com/devbojack/devbojack/blob/main/assets/palace.png" width="200" height="200" alt="linkedin logo"  />
 </a></div>
 
 ###
@@ -42,17 +42,17 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/devbojack/devbojack/blob/main/assets/flutter.png" height="40" width="40" alt="Flutter logo"  />
-  <img src="https://github.com/devbojack/devbojack/blob/main/assets/js.png" height="40" width="40" alt="JavaScript logo"  />
-  <img src="https://github.com/devbojack/devbojack/blob/main/assets/kubernetes.png" height="40" width="40" alt="Kubernetes logo"  />
-  <img src="https://github.com/devbojack/devbojack/blob/main/assets/golang.png" height="40" width="40" alt="Golang logo"  />
-  <img src="https://github.com/devbojack/devbojack/blob/main/assets/html5.png" height="40" width="40" alt="HTML logo"  />
-  <img src="https://github.com/devbojack/devbojack/blob/main/assets/mongo_db.png" height="40" width="40" alt="Mongo DB logo"  />
-<img src="https://github.com/devbojack/devbojack/blob/main/assets/python.png" height="40" width="40" alt="Python logo"  />
-<img src="https://github.com/devbojack/devbojack/blob/main/assets/node_js.png" height="40" width="40" alt="Node.js logo"  />
-<img src="https://github.com/devbojack/devbojack/blob/main/assets/docker.png" height="40" width="40" alt="Docker logo"  />
-  <img src="https://github.com/devbojack/devbojack/blob/main/assets/sql.png" height="40" width="40" alt="SQL logo"  />
-   <img src="https://github.com/devbojack/devbojack/blob/main/assets/typescript.png" height="40" width="40" alt="TypeScript logo"  />
+  <img src="https://github.com/devbojack/devbojack/blob/main/assets/flutter.png" height="50" width="50" alt="Flutter logo"  />
+  <img src="https://github.com/devbojack/devbojack/blob/main/assets/js.png" height="50" width="50" alt="JavaScript logo"  />
+  <img src="https://github.com/devbojack/devbojack/blob/main/assets/kubernetes.png" height="50" width="50" alt="Kubernetes logo"  />
+  <img src="https://github.com/devbojack/devbojack/blob/main/assets/golang.png" height="48" width="50" alt="Golang logo"  />
+  <img src="https://github.com/devbojack/devbojack/blob/main/assets/html5.png" height="48" width="50" alt="HTML logo"  />
+  <img src="https://github.com/devbojack/devbojack/blob/main/assets/mongo_db.png" height="48" width="50" alt="Mongo DB logo"  />
+<img src="https://github.com/devbojack/devbojack/blob/main/assets/python.png" height="50" width="50" alt="Python logo"  />
+<img src="https://github.com/devbojack/devbojack/blob/main/assets/node_js.png" height="47" width="50" alt="Node.js logo"  />
+<img src="https://github.com/devbojack/devbojack/blob/main/assets/docker.png" height="32" width="50" alt="Docker logo"  />
+  <img src="https://github.com/devbojack/devbojack/blob/main/assets/sql.png" height="47" width="50" alt="SQL logo"  />
+   <img src="https://github.com/devbojack/devbojack/blob/main/assets/typescript.png" height="50" width="50" alt="TypeScript logo"  />
 </div>
 
 ###
