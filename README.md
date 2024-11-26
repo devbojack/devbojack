@@ -22,33 +22,31 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jean-izepon/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/justus-lolwerikoi-032006164" target="_blank">
+    <img src="https://github.com/devbojack/devbojack/blob/main/assets/linked_In.png" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/izepon/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/izepon/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://stackoverflow.com/users/17432749/justus-lolwerikoi" target="_blank">
+    <img src="https://github.com/devbojack/devbojack/blob/main/assets/stackoverflow.png" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Codes</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://github.com/devbojack/devbojack/blob/main/assets/flutter.png" height="40" width="52" alt="javascript logo"  />
+  <img src="https://github.com/devbojack/devbojack/blob/main/assets/js.png" height="40" width="52" alt="typescript logo"  />
+  <img src="https://github.com/devbojack/devbojack/blob/main/assets/kubernetes.png" height="40" width="52" alt="angularjs logo"  />
+  <img src="https://github.com/devbojack/devbojack/blob/main/assets/html5.png" height="40" width="52" alt="angularjs logo"  />
+  <img src="https://github.com/devbojack/devbojack/blob/main/assets/mongo_db.png" height="40" width="52" alt="angularjs logo"  />
+<img src="https://github.com/devbojack/devbojack/blob/main/assets/python.png" height="40" width="52" alt="angularjs logo"  />
+<img src="https://github.com/devbojack/devbojack/blob/main/assets/node_js.png" height="40" width="52" alt="angularjs logo"  />
+<img src="https://github.com/devbojack/devbojack/blob/main/assets/docker.png" height="40" width="52" alt="angularjs logo"  />
+  <img src="https://github.com/devbojack/devbojack/blob/main/assets/sql.png" height="40" width="52" alt="angularjs logo"  />
+   <img src="https://github.com/devbojack/devbojack/blob/main/assets/typescript.png" height="40" width="52" alt="git logo"  />
 </div>
 
 ###
