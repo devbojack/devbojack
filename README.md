@@ -1,15 +1,18 @@
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Bojack&label=Profile%1120Views&color=6&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=Bojack&label=Profile%820Views&color=6&pretty=false" />
 </a>
 
-###
-
-<!-- <img align="right" height="400" src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif"  /> -->
 
 ###
 
-<h1 align="left">Hello World👋 What's up?</h1>
+<h1 align="left">Hello World👋</h1>
+
+###
+
+<h2 align="left">My name is Justus Lolwerikoi, <br>
+  I'm a FullStack Developer<br>
+ </h2>
 
 ###
 <div align="left"><a>
@@ -18,9 +21,6 @@
 
 ###
 
-<p align="left">My name is Justus Lolwerikoi, <br>
-  I'm a FullStack Developer<br>
- </p>
 
 ###
 
