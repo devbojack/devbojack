@@ -1,5 +1,7 @@
 
-[![](https://visitcount.itsvg.in/api?id=izepon&icon=2&color=6)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Bojack&label=Profile%1120Views&color=6&pretty=false" />
+</a>
 
 ###
 
