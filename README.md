@@ -1,6 +1,6 @@
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Bojack&label=Profile%820Views&color=6&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=Bojack&label=Profile%820Views&color=6&icon=8&pretty=false" />
 </a>
 
 
