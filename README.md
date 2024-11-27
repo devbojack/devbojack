@@ -16,7 +16,7 @@
 
 ###
 <div align="left"><a>
-<img src="https://github.com/devbojack/devbojack/blob/main/assets/palace.png" width="200" height="200" alt="linkedin logo"  />
+<img src="https://github.com/devbojack/devbojack/blob/main/assets/palace.png" width="100" height="100" alt="linkedin logo"  />
 </a></div>
 
 ###
