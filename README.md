@@ -11,7 +11,7 @@
 ###
 
 <h2 align="left">My name is Justus Lolwerikoi, <br>
-  I'm a FullStack Developer<br>
+  DevOps & ETHICAL Hacker<br>
  </h2>
 
 ###
